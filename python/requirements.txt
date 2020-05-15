@@ -6,3 +6,4 @@ PyYAML
 argh
 flask
 waitress
+feedparser
